@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import { AppTest } from './App.test';
+// Comentario
 import './App.css';
 
 function App() {
