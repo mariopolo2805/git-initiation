@@ -5,11 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Nico22
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-Hola que ase
+          Hola que ase
         </p>
         <a
           className="App-link"
@@ -20,6 +19,7 @@ Hola que ase
           Learn React
         </a>
       </header>
+      <footer>Footer</footer>
     </div>
   );
 }
